@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isoguuda.github.io/Lwj/sitemap_index.txt
+Sitemap: https://isoguuda.github.io/OoS/sitemap_index.txt
+Sitemap: https://isoguuda.github.io/SNp/sitemap_index.txt
+Sitemap: https://isoguuda.github.io/lIY/sitemap_index.txt
